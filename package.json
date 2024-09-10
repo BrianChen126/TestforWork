@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/BrianChen126/TestforWork/issues"
   },
-  "homepage": "https://github.com/BrianChen126/TestforWork#readme"
+  "homepage": "https://github.com/BrianChen126/TestforWork#readme",
+  "dependencies": {
+    "test-for-work": "file:"
+  }
 }
